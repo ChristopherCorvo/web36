@@ -7,7 +7,7 @@ function App() {
   
   return (
     <main>
-      <h1>Web 36 is Amazing</h1>
+      <h1>Web 36 is Amazing!!</h1>
       <h2>
         Deployed with{' '}
         <a
